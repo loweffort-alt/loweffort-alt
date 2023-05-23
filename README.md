@@ -3,7 +3,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Alex Farfan Navarro, Full Stack Web Developer 💻<br>
   <br>
-    <img src="https://media.tenor.com/JAEm1ZrPQLkAAAAC/pepe-hacker.gif" alt="Coder GIF" width="300">
+    <img src="https://media.tenor.com/JAEm1ZrPQLkAAAAC/pepe-hacker.gif" alt="Coder GIF" width="200">
  </abc>
 </h2>
 <h2 align="left">🛠️ Technologies and Tools I use:</h2>
