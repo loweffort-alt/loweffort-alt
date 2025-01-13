@@ -43,5 +43,5 @@ Android:
 
 <h2 align="left">💟 Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-alexfarfan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexfarfan/)](https://www.linkedin.com/in/alexfarfan)
-[![Linkedin Badge](https://img.shields.io/badge/-alexfarfan.lat-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://alexfarfan.site/)](https://alexfarfan.site/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexfarfan)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://alexfarfan.site/)
